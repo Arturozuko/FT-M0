@@ -1,0 +1,4 @@
+`for` - cuenta uno por uno, elementos, pueden ser numeros o valores dentro de un arreglo
+* `&&`,- este se llama and en español y lo usas cuando estas comparando cosas ejemplo que sea blanco "y" azul
+ `||`,- este se llama OR en español O igual lo usas cuando quieres comparar cosas ejemplo lo compro si es de piel "o" tela
+  `!`- y este operador siempre esta llevando la contraria unicamente para cosas que por naturaleza son verdaderoas o falsas , por ejemplo un coche que es rojo y tu le dices es rojo ese operador te dira NOOOO NO ES ROJO tu afirmacion es falsa y si le dices bueno esta bien NO es Rojo entonces el te dira SI SIII es rojo jamas le podras hacer entrar en razon.
